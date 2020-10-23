@@ -1,4 +1,4 @@
-baseurl = "http://products.ai-resort.org/"
+baseurl = "http://products.ai-resort.org.s3-website-ap-southeast-1.amazonaws.com/"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
