@@ -89,7 +89,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [deployment]
 
 [[deployment.targets]]
-name = "products.ai-resort.orgm"
+name = "products.ai-resort.org"
 URL = "s3://products.ai-resort.org?region=ap-southeast-1"
 
 # If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
